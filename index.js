@@ -8,11 +8,10 @@ function subtract(a, b){
 }
 console.log(subtract(a,b));
 
-
-function multiply(a,b){
-    return a*b
+function multiply(a, b){
+    
 }
-console.log(multiply(a, b));
+console.log (multiply(a, b));
 
 
 function divide(a,b){
